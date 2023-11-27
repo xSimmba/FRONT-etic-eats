@@ -1,3 +1,4 @@
+#Miguel Sousa
 funcao criarUser (email) :
     numeroUser = Users.usuarios.tamanho()
     Users.usuarios[numeroUser] = (email-> email, 
@@ -29,6 +30,7 @@ funcao verificaNome (nome):
 
         contador ++
     retorna falso
+#MC
 
 funcao verificaNumeroTele (numeroTele):
     contador = 0
