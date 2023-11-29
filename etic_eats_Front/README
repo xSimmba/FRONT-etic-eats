@@ -11,4 +11,5 @@ Funcionalidades:
     O programa começa questionando ao usuário se tem conta na Aplicação EticEats. Se o usuário responder que nao tem conta, será chamada a função criarUser, onde o novo utilizador poderá cadastrar todos os seus dados necessários. 
     Caso o utlizador já tenha conta, será pedido o seu email e senha, tais dados serão enviados como parâmetros na função login. Assim, teremos um retorno caso o email e senha do usuário exista na nossa base de dados e, se tudo estiver correto, o login será feito. 
    
-   ->
+   ->Feedback
+   Esta funcionalidade e efetuada após o usuário finalizar o pedido, mostrando uma escala de 1 a 5 estrelas, assim avaliando a app em si.
