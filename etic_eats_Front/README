@@ -22,6 +22,9 @@ Funcionalidades:
   -> Avaliar o pedido e a App
     Está função tem como Funcionalidade perguntar ao usuario de uma escala de 1 a 5 qual a sua classificação , pergunta ao usuario qual é opniao do seu Pedido e diz ao usuario para deixar um comentario.
 
+  ->-Fazer e adicionar um pedido ao carrinho
+   Esta função basicamente faz com que o pedido do restaurante vá para o carrinho e façemos o "checkout" das coisas que pedimos.
+
    ->PRINCIPAL
 Descrição:
 EticEats é uma aplicação interativa destinada a facilitar a experiência de pedidos em restaurantes. Esta aplicação permite aos utilizadores criar uma conta, fazer login e navegar pelas opções do restaurante.
