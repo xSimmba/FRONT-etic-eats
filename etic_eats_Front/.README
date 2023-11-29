@@ -1,0 +1,11 @@
+
+    funcionabilidade:
+        -Login/SignUp
+        -Pesquisar restaurantes diferentes
+        -Ver Menus dos Restaurantes
+        -Fazer Pedidos baseado no Menu
+        -Ver Carrinho, Historico
+        -Editar e Gerir Pedido
+
+
+Começa o frontoffice em MAIN, apartir dai é seguir a logica do programa 
