@@ -6,7 +6,7 @@ funcao avaliacaoPedido():
   
     entrada(“De 1 a 5 estrelas , qual é a sua opnião” , opiniaoEstrelas)
 
-    while(opinaoEstrelas < 1 || opinaoEstrelas > 5)
+    while(opinaoEstrelas < 0 || opinaoEstrelas > 5)
         imprime("Erro! Insira uma quantidade de estrelas de 1 a 5")
         entrada(“De 1 a 5 estrelas , qual é a sua opnião” , opiniaoEstrelas)
 
