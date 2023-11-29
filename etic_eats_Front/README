@@ -5,13 +5,27 @@ Funcionalidades:
     -Ver historico
     -Alterar pedido
     -Avaliar o pedido e a App
-    
-    
+   
+   
+   
     -> LOGIN
     O programa começa questionando ao usuário se tem conta na Aplicação EticEats. Se o usuário responder que nao tem conta, será chamada a função criarUser, onde o novo utilizador poderá cadastrar todos os seus dados necessários. 
     Caso o utlizador já tenha conta, será pedido o seu email e senha, tais dados serão enviados como parâmetros na função login. Assim, teremos um retorno caso o email e senha do usuário exista na nossa base de dados e, se tudo estiver correto, o login será feito. 
    
-   -> Avaliar o pedido e a App
+   
+   -> alterar pedido
+   A função alterarPedido gerencia a modificação de pedidos em um sistema de menus de restaurantes. O código apresenta opções para adicionar ingredientes, remover itens, cancelar pedidos, aumentar a quantidade de itens e adicionar novos menus. 
+   Ele exibe o menu, solicita escolhas do usuário e realiza ações correspondentes, como atualizar o pedido, remover itens e verificar o status do restaurante antes de permitir adições.
+    
+  -> Avaliar o pedido e a App
     Está função tem como Funcionalidade perguntar ao usuario de uma escala de 1 a 5 qual a sua classificação , pergunta ao usuario qual é opniao do seu Pedido e diz ao usuario para deixar um comentario.
 
-    
+   ->PRINCIPAL
+Descrição:
+EticEats é uma aplicação interativa destinada a facilitar a experiência de pedidos em restaurantes. Esta aplicação permite aos utilizadores criar uma conta, fazer login e navegar pelas opções do restaurante.
+
+Manual de Utiliza
+Início da Aplicação: Execute o script principal para iniciar a aplicação.
+Login/Registo: Escolha entre fazer login ou criar uma nova conta.
+Exploração: Após o login, explore as opções disponíveis no restaurante.
+
