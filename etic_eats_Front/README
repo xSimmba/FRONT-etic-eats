@@ -1,7 +1,6 @@
-Funcionalidades:
-    -login/Criar conta
-    -Procurar restaurantes e ver os seus respetivos menus
-    -Fazer e adicionar um pedido ao carrinho
-    -Ver historico
-    -Alterar pedido
-    -Avaliar o pedido e a App
+A primeira função cria um novo usuário com as informações iniciais. O usuário é adicionado à lista Users.usuarios. Cada usuário é representado por um dicionário contendo o email, o nome, a senha, a morada, o numero de telemovel e o historico.
+A segunda função verifica se um e-mail já está associado a algum usuário na lista Users.usuarios. Retorna True se o e-mail já existir e False caso não exista.
+A terceira função verifica se um nome já está associado a algum usuário na lista Users.usuarios. Retorna True se o nome já existir e False caso não exista.
+
+
+    
